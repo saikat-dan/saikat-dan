@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikat-dan
-- 👀 I’m interested in web designing & development
+- 👀 I’m interested in web designing and development
 - 🌱 I’m currently learning angular 11
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me saikatdan98@gmail.com
 
 <!---
